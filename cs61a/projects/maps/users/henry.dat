@@ -1,0 +1,20 @@
+make_user(
+    'Henry',     # name
+    [                   # reviews
+        # Northside restaurants
+        make_review('Urbann Turbann', 3.0),
+        make_review('Cafe 3', 3.0),
+        make_review('Nefeli Caffe', 4.5),
+        # Westside restaurants
+        make_review('La Cascada Taqueria', 3.0),
+        make_review('Alborz', 2.0),
+        make_review('Gather', 4.5),
+        make_review('C U Sushi', 3.5),
+        make_review('Cinnaholic', 5.0),
+        make_review('Saturn Cafe', 1.5),
+        make_review('Punjabi By Nature', 2.5),
+        make_review('Suya African Caribbean Grill', 4.0),
+        make_review('Cafe Rio', 4.0),
+        make_review('The Sunny Side Caf\u00e9', 1.5),
+    ]
+)

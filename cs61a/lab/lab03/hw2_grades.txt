@@ -1,0 +1,21 @@
+#Problem 1: 10 
+#Problem 2.a: 10 
+#Problem 2.b: 10 
+#Problem 3.a: 10 
+#Problem 3.b: 10 
+#Problem 4.a: 10 
+#Problem 4.b: 10 
+#Problem 4.c: 10 
+#Problem 4.d: 10 
+#Problem 4.e: 10 
+#Problem 5: IDK 
+#Problem 6.a: 10 
+#Problem 6.b: 10 
+#Problem 6.c: IDK 
+#Problem 7.a: 10 
+#Problem 7.b: 10 
+#Problem 7.c: 10 
+#Problem 7.d: 10 
+#Problem 7.e: 8 Unsure if reusing the same proof from 7d is sufficient
+#Problem 7.f: 10 
+#Problem 8: 10 

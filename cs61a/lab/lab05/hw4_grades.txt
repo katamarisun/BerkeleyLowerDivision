@@ -1,0 +1,21 @@
+#Problem 1: 10 
+#Problem 2.a: 10 
+#Problem 2.b: 10 
+#Problem 2.c: 10 
+#Problem 2.d: 10 
+#Problem 3.a: 10 
+#Problem 3.b: 10 
+#Problem 3.c: IDK 
+#Problem 3.d: 10 
+#Problem 3.e: 10 
+#Problem 3.f: 10 
+#Problem 3.g: 10 
+#Problem 3.h: 8 I am unsure whether checking linear independence is the same as invertibility, or at least with respect to this question.
+#Problem 3.i: 10 
+#Problem 4: 10 
+#Problem 5: IDK 
+#Problem 6: 10 
+#Problem 7: 10 
+#Problem 8: 10 
+#Problem 9: 10 
+#Problem 10: 10 
